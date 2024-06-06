@@ -1,4 +1,4 @@
 # college_demo
 college teaching repo.
 <br>
-Author- Nswaru
+Author- Nswaru (UoM)
